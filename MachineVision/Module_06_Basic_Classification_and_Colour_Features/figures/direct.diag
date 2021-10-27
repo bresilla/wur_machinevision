@@ -1,0 +1,3 @@
+blockdiag {
+   "Raw Image" -> "Decision Process\n(Classifier)" -> "Ripe?";
+}

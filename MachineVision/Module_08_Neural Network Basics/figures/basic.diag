@@ -1,0 +1,4 @@
+blockdiag {
+   "Input Image\n(e.g. image of a car)" -> "Feature Extraction" -> "Classifier" -> "Prediction\nCar?/Dog?/Cat?";
+}
+

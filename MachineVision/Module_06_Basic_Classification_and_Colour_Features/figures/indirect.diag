@@ -1,0 +1,3 @@
+blockdiag {
+   "Raw Image" -> "Feature Extraction" -> "(Area, AverageRed)" -> "Decision Process\n(Classifier)" -> "Ripe?";
+}
